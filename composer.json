@@ -1,5 +1,7 @@
 {
-    "type": "project",
+    "description": "test",
+    "name": "jacopo89/test-embed",
+    "type": "package",
     "license": "proprietary",
     "minimum-stability": "dev",
     "prefer-stable": true,
